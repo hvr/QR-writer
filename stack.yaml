@@ -5,3 +5,4 @@ packages:
 extra-deps:
 - haskell-qrencode-1.0.4
 resolver: lts-7.14
+pvp-bounds: both
